@@ -1,6 +1,6 @@
 ---
 layout: page
 title: aa
-permalink: /a
+permalink: /aa
 ---
 test
