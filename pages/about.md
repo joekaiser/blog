@@ -3,15 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am what some people call a self sufficient “full stack developer”. I know my way around data modeling, database tuning, scale-able architecture, front end code, service design, and performance. I enjoy solving problems and mentoring young engineers. 
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I live in Seattle and currently work for [Drift](https://www.drift.com} building out the [Siftrock])(https://www.siftrock.com) product. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+My passion is building software, but when I am not doing that you can find me:
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- Working on DIY projects with my wife
+- Making my kids groan with "dad jokes"
+- Building furniture in my wood shop (aka: the garage) 
