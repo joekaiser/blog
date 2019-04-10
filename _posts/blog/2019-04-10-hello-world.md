@@ -6,7 +6,7 @@ image: /assets/uploads/steve-halama-698056-unsplash.jpg
 ---
 Hi, [I'm Joe](/about)
 
-I have been MIA on the internet for a while now, but I'm back and refreshed. I have been kicking around the idea of a blog for a while now and it finally feels like the right time to do it.
+I have been Internet-MIA, but I'm back, refreshed, and have been kicking around the idea of a blog for a while now. It finally feels like the right time to do it.
 
 The purpose of this blog is like most others, I suppose. I'm going to:
  
