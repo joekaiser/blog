@@ -21,10 +21,10 @@ I work in an open-office environment. There are only 4 of us in the room, but it
 
 I have tried every "focus" playlist Spotify recommended to me, but they are so slow and peaceful. I could fall asleep listening to them 😴  
 
-I wanted something upbeat but not too crazy and no lyrics to distract me. Enter the creatively named Music for coding(https://open.spotify.com/user/jdkaiser/playlist/2Uh4sdLSVfCz79j9RWfHcN?si=LSSXROnyR7OObnSeWibVHw). 3 hours of music to drown out the noise when you need it the most.
+I wanted something upbeat but not too crazy and no lyrics to distract me. Enter the creatively named [Music for Coding](https://open.spotify.com/user/jdkaiser/playlist/2Uh4sdLSVfCz79j9RWfHcN?si=LSSXROnyR7OObnSeWibVHw). 3 hours of music to drown out the noise when you need it the most.
 
 I have been using it for a few months, and it hasn't let me down yet. If you are in the mood for something new and different then give it a try. 
 
 Enough distraction - back to that problem! 
 
-[Spotify URI](spotify:user:jdkaiser:playlist:2Uh4sdLSVfCz79j9RWfHcN)
+Spotify URI:[Music for Coding](spotify:user:jdkaiser:playlist:2Uh4sdLSVfCz79j9RWfHcN)
