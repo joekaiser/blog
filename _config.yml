@@ -55,6 +55,13 @@ social:
     share_title:
     share_link:
 
+  - icon:	gitlab
+    url:	https://gitlab.com/joekaiser
+    desc:	Fork me on gitlab
+    share_url:
+    share_title:
+    share_link:
+
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
