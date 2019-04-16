@@ -34,23 +34,25 @@ function checkpoint(droids:[]){
 
 The output from that would look like:
 
->Error: These are not the droids you are looking for
->    at ......
->    at ......
->    at ......
->metadata:
->{
->  "droids": [
->      {
->       "name": "R2D2",
->       "isWanted": true
->      },
->      {
->       "name": "C3PO",
->       "isWanted": true
->      }
->  ]
->}
+```
+Error: These are not the droids you are looking for
+    at ......
+    at ......
+    at ......
+metadata:
+{
+  "droids": [
+      {
+       "name": "R2D2",
+       "isWanted": true
+      },
+      {
+       "name": "C3PO",
+       "isWanted": true
+      }
+  ]
+}
+```
 
 This gives you a much better way to include addtional information with the added benefit of a consistent log format. 
 
