@@ -11,7 +11,7 @@ But we (myself included) aren't usually thinking about the failure case. We are 
 
 Dead simple and effortless - that was my goal. What I ended up with is a project I am calling [ Fault-Tolerance](https://www.npmjs.com/package/fault-tolerance). The concept behind it is simple - extend the default Error object to format errors better.
 
-In the most basic example you can `throw new Fault('Move along');`. In reality, though, that kind of error isn't as helpful as you want. Errors have context and we don't want to lose that. 
+In the most basic example you can `throw new Fault('Move along')`. In reality, though, that kind of error isn't as helpful as you want. Errors have context and we don't want to lose that. 
 
 ```
 function checkpoint(droids:[]){
