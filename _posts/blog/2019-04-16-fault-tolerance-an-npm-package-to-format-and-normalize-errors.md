@@ -33,7 +33,6 @@ function checkpoint(droids:[]){
 ```
 
 The output from that would look like:
-
 ```
 Error: These are not the droids you are looking for
     at ......
