@@ -7,7 +7,7 @@ image: /assets/uploads/pankaj-patel-515219-unsplash.jpg
 
 Developers don't spend enough time thinking about their errors. I see too many projects that `throw Error('invalid data')` or even worse `throw 'invalid data'` 😱. That isn't useful! Give me some context, bud.
 
-But we (myself included) aren't usually thinking about the failure case. We are thinking about the solution and (at best) are simply guarding against some bad input. That need to change. Errors need context to be useful. String interpolation isn't good enough - it still requires thought. An error databag is what we need.
+But we (myself included) aren't usually thinking about the failure case. We are thinking about the solution and (at best) are simply guarding against some bad input. That needs to change. Errors need context to be useful. String interpolation isn't good enough - it still requires thought. An error databag is what we need.
 
 Dead simple and effortless - that was my goal. What I ended up with is a project I am calling [ Fault-Tolerance](https://www.npmjs.com/package/fault-tolerance). The concept behind it is simple - extend the default Error object to format errors better.
 
