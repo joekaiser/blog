@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Full Stack Developer
-date: 2019-04-16T19:30:18.717Z
+date: 2019-04-30T19:30:18.717Z
 image: /assets/uploads/temple-cerulean-421274-unsplash.jpg
 ---
 Technical books are a funny thing - most of them are out of date shortly after publishing. I can't even begin to remember how many I have either donated or deleted from my digital library. The problem is simple. They don't stay relevant in the fast-paced world that is software development. So I get excited when I find a technical book that has what it takes to stand the test of time. The latest one is [The Full Stack Developer](https://www.goodreads.com/book/show/41800851-the-full-stack-developer) by Chris Northwood. 
