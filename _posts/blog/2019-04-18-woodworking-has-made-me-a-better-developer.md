@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Woodworking has Made Me a Better Developer
-date: 2019-04-16T19:30:18.717Z
+date: 2019-05-06T19:30:18.717Z
 image: /assets/uploads/milan-popovic-532663-unsplash.jpg
 ---
 Woodworking has been one of my passions for about 5 years now. 99% of what I do is with hand tools - dimensioning wood, planing it smooth, joinery, everything. Some people think it is crazy, but I truly believe it has made me a better developer.
