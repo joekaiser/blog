@@ -20,4 +20,4 @@ You typically learn these "unknown unknowns" on the job, but The Full Stack Deve
 
 
 
-![The Fullstack Developer](/assets/uploads/book_thefullstackdeveloper.jpg)
+![The Full Stack Developer](/assets/uploads/book_thefullstackdeveloper.jpg)
