@@ -10,12 +10,14 @@ This book stands-out due to the focus on the day-to-day aspect of being a develo
 
 > “One area where the modern full stack developer working in a digital organization will differ from a traditional enterprise is that the products they are working on will constantly evolve in response to the real world at a rapid pace, rather than simply in response to requirements being pushed upon them by the organization. It is no longer enough to build something to meet some acceptance criteria and then push it out into the world; you and your team will have to check that any change you've made is actually having the impact you want it to have.
 >
->
 > Getting into a position to do this can be hard unless your team is truly working as a core part of your organization. Any new feature you build or change you make also requires you to understand why that change is being made—is it to increase sign-ups or sales, or to satisfy some other business need? Once you understand this underlying motivation, then shipping a feature is no longer enough, if that feature cannot satisfy this underlying cause.”
->
 >
 > _Excerpt From: Chris Northwood. “The Full Stack Developer.”_
 
 It has been said there are two kinds of unknowns: Those you know and those you don't. A "known unknown" is when you recognize where a knowledge gap is; while an "unknown unknown" is when you don't.
 
 You typically learn these "unknown unknowns" on the job, but The Full Stack Developer is a jumpstart down that path. If you want to be a professional software developer then you need this book. There is a lot of information to gain, and nothing to lose.
+
+
+
+![The Fullstack Developer](/assets/uploads/book_thefullstackdeveloper.jpg)
