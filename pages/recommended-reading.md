@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recommended  Reading
+title: Book Club
 permalink: /bookclub/
 ---
 ![The Imposter's Handbook](/assets/uploads/book_impostershandbook.jpg "The Imposter's Handbook")
