@@ -17,7 +17,3 @@ This book stands-out due to the focus on the day-to-day aspect of being a develo
 It has been said there are two kinds of unknowns: Those you know and those you don't. A "known unknown" is when you recognize where a knowledge gap is; while an "unknown unknown" is when you don't.
 
 You typically learn these "unknown unknowns" on the job, but The Full Stack Developer is a jumpstart down that path. If you want to be a professional software developer then you need this book. There is a lot of information to gain, and nothing to lose.
-
-
-
-![The Full Stack Developer](/assets/uploads/book_thefullstackdeveloper.jpg)
