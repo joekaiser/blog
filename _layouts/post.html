@@ -66,9 +66,11 @@
             {% endfor %}
           </section>
           {% if page.previous.url %}
-            <span>You might like: </span>
-            <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-          {% endif %}
+           <div class="previous">
+             <span>You might like: </span>
+              <a href="{{page.previous.url}}">{{page.previous.title}}</a>
+            </div>
+            {% endif %}
         </footer>
         <div class="bottom-teaser cf">
           <div class="isLeft">
