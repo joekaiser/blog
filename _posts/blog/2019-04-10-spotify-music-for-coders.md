@@ -26,4 +26,4 @@ I have been using it for a few months, and it hasn't let me down yet. If you are
 Enough distraction - back to that problem! 
 
 Spotify URI: [Music for Coding](spotify:user:jdkaiser:playlist:2Uh4sdLSVfCz79j9RWfHcN)  
-Web Link:[Music For Coding](https://open.spotify.com/user/jdkaiser/playlist/2Uh4sdLSVfCz79j9RWfHcN?si=DmRBTtjxQGOpcpa29SPVgQ)
+Web Link: [Music For Coding](https://open.spotify.com/user/jdkaiser/playlist/2Uh4sdLSVfCz79j9RWfHcN?si=DmRBTtjxQGOpcpa29SPVgQ)
