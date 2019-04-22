@@ -8,15 +8,12 @@ image: /assets/uploads/willian-justen-de-vasconcellos-616948-unsplash.jpg
 
 Do you want to know how to irritate software engineers? Break their focus. Much of what we do is problem-solving. Sometimes they are simple, but often they don't have an obvious solution.
 
->We need to make sure we don't show duplicate records in the list
+**We need to make sure we don't show duplicate records in the list**
 
-*OK, I'll change the query to remove them*
- 
-*Oh, that isn't right. The admin page needs all records and it shares this function*
- 
-*I don't want to duplicate this code; let's filter these out upstream*
- 
-*Oh, now we are only showing 9 records instead of the default page size of 10*
+> OK, I'll change the query to remove them  
+> Oh, that isn't right. The admin page needs all records and it shares this function  
+> I don't want to duplicate this code; let's filter these out upstream  
+> Oh, now we are only showing 9 records instead of the default page size of 10
 
 Perhaps that isn't the best scenario but it gets my point across. If we aren't able to focus on the problem at hand then solving it is harder than it should be.
 
