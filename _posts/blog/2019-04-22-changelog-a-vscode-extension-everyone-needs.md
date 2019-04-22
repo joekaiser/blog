@@ -1,0 +1,19 @@
+---
+layout: post
+title: 'Changelog: A VSCode Extension Everyone Needs'
+date: 2019-05-09T08:25:00.000Z
+image: /assets/uploads/goran-ivos-246271-unsplash.jpg
+---
+I ran across a great extension for Visual Studio Code, and it was too good not to share.
+
+**Problem:** How can I quickly and seamlessly see if an NPM package is out of date, and view the changelog? Bonus points if I don't need to leave my IDE.
+
+**Answer:** [Changelog by Jacob Cofman](https://marketplace.visualstudio.com/items?itemName=JacobCofman.changelog)
+
+Changelog is one of those rare extensions that does one thing really well. If you hover your mouse over the version of a dependency in your package.json a nice popup opens with release information.
+
+The extension tries to fetch the `CHANGELOG.md` file from the packages repository so it won't work with _every_ package, but it will still let you know if there is a new version. That is a win in my book. 🙌
+
+![](/assets/uploads/changelog-extension.jpg)
+
+Marketplace Link: [Changelog](https://marketplace.visualstudio.com/items?itemName=JacobCofman.changelog)
