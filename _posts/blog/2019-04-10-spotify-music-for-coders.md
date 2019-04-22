@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotify Playlist for Programmers
+title: Music for Coding - a Spotify Playlist
 date: 2019-04-23T01:07:21.716Z
 image: /assets/uploads/willian-justen-de-vasconcellos-616948-unsplash.jpg
 ---
