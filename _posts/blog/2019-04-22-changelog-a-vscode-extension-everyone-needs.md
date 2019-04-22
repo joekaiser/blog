@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Changelog: A VSCode Extension Everyone Needs'
-date: 2019-05-09T08:25:00.000Z
+date: 2019-05-10T08:25:00.000Z
 image: /assets/uploads/goran-ivos-246271-unsplash.jpg
 ---
 **Problem:** How can I quickly and seamlessly see if an NPM package is out of date, and view the changelog? Bonus points if I don't need to leave my IDE.
