@@ -54,10 +54,7 @@
           {{content}}
         </section>
         <footer class="post-footer">
-          {% if page.previous.url %}
-            <span>You might like: </span>
-            <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-          {% endif %}
+          
           <section class="share">
             {% for social in site.social %}
               {% if social.share_url != null %}
@@ -68,6 +65,10 @@
               {% endif %}
             {% endfor %}
           </section>
+          {% if page.previous.url %}
+            <span>You might like: </span>
+            <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+          {% endif %}
         </footer>
         <div class="bottom-teaser cf">
           <div class="isLeft">
