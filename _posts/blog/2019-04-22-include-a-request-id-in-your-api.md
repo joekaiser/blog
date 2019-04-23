@@ -8,14 +8,14 @@ Let's pretend we have a micro-service that will take a blob of text and output a
 
 Some sample input might be
 
-> To,\
+> To,  
 > Troy Hall, 
 >
 > This is to inform you that your sample order is ready at our workshop and you are cordially invited to have a look and give us your opinion for any further changes if any. We are happy to inform you that this has been made within the time frame you have specified strictly. Sample is very much as per your description, details, design and also have possibility to include more features if there is any need from your end.
 >
 > I hope to see you soon at our workshop. We will wait for your presence to be felt along with your colleagues for a brief meeting after inspection.
 >
-> Yours Truly,\
+> Yours Truly,  
 > Jack Harrison
 
 And we the output expected is :
