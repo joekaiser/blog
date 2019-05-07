@@ -26,5 +26,7 @@ This dovetails with the previous one. "Fail early and often" is a phrase I hear 
 
 Recognize not only when something has failed, but *will* fail. That will ultimately make you a better developer.
 
+[Discuss this with me on Twitter](https://twitter.com/jotato/status/1125496115565027332)
+
 
 
