@@ -17,3 +17,5 @@ The extension tries to fetch the `CHANGELOG.md` file from the packages repositor
 I know it sounds silly, but being able to look this up without context switching is kind of a big deal. I'm always looking for tools to fit into my workflow, and this one does it perfectly.  Give it a try.
 
 Marketplace Link: [Changelog](https://marketplace.visualstudio.com/items?itemName=JacobCofman.changelog)
+
+[Discuss this with me on Twitter](https://twitter.com/jotato/status/1128672362839166976)
