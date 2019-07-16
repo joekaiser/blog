@@ -16,6 +16,6 @@ The purpose of this blog is like most others, I suppose. I'm going to:
 
 If I can do one of those three things then this will be a success.
 
-You can follow me over on [github (joekaiser)](https://github.com/joekaiser) [gitlab (joekaiser)](https://gitlab.com/joekaiser) or [twitter (@Jotato)](https://twitter.com/jotato)
+You can follow me over on [github (joekaiser)](https://github.com/joekaiser) [gitlab (joekaiser)](https://gitlab.com/joekaiser) or [twitter (@HiJoeK)](https://twitter.com/HiJoeK)
 
 I'll see you around

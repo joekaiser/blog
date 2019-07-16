@@ -18,4 +18,4 @@ I know it sounds silly, but being able to look this up without context switching
 
 Marketplace Link: [Changelog](https://marketplace.visualstudio.com/items?itemName=JacobCofman.changelog)
 
-[Discuss this with me on Twitter](https://twitter.com/jotato/status/1128672362839166976)
+[Discuss this with me on Twitter](https://twitter.com/HiJoeK)

@@ -29,4 +29,4 @@ Enough distraction - back to that problem!
 Spotify URI: [Music for Coding](spotify:user:jdkaiser:playlist:2Uh4sdLSVfCz79j9RWfHcN)  
 Web Link: [Music For Coding](https://open.spotify.com/user/jdkaiser/playlist/2Uh4sdLSVfCz79j9RWfHcN?si=DmRBTtjxQGOpcpa29SPVgQ)
 
-[Discuss this with me on Twitter](https://twitter.com/jotato/status/1120329674008039424)
+[Discuss this with me on Twitter](https://twitter.com/HiJoeK)
