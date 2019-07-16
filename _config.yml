@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Joe Kaiser"
 description: > # this means to ignore newlines until "email:"
-   Software Engineer
+
 
 email: a-mail@mail.mail
 #blog logo
@@ -25,7 +25,7 @@ paginate:	5
 url: "https://joekaiser.dev" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@jotato'
+twitter_handle: '@HiJoeK'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
